@@ -44,3 +44,11 @@ Failed logins, IP reputation score, and login attempts were the strongest predic
 - Pandas
 - Matplotlib
 - Scikit-Learn
+
+## Dataset
+
+This project uses a publicly available cybersecurity dataset.
+
+Source: Cybersecurity Intrusion Detection Dataset by Dinesh Naveen Kumar Samudrala on Kaggle.
+
+Credit to the original dataset creator(s) and publisher.
